@@ -1,0 +1,18 @@
+fitness-website/
+├── index.html         (Homepage)
+├── workouts.html      (Workout Routines page)
+├── nutrition.html     (Nutrition Guides page)
+├── photos.html        (Photo Galleries page)
+├── contact.html       (Contact page)
+├── styles.css         (CSS file)
+└── images/
+    ├── workout1.jpg
+    ├── workout2.jpg
+    ├── workout3.jpg
+    ├── nutrition1.jpg
+    ├── nutrition2.jpg
+    ├── nutrition3.jpg
+    ├── gallery1.jpg
+    ├── gallery2.jpg
+    ├── gallery3.jpg
+
